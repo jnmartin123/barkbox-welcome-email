@@ -44,11 +44,9 @@ h1 {
   font-size: 15px;
   font-weight: normal;
 }
-
 .separator {
-  color: rgb(230, 229, 229);
-  margin: 10px 0;
-  line-height: 1;
+  border-top: 1px solid rgb(230, 229, 229);
+  margin: 16px 0;
 }
 
 .site-links {
